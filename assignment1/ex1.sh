@@ -12,3 +12,5 @@ touch subdir2/file2.txt
 
 cd ~
 tree mydir
+
+tar -cvf mydir.tar mydir
